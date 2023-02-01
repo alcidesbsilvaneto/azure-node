@@ -12,10 +12,10 @@ variables:
   azureSubscription: '350e8fe0-6e46-4bc2-a20f-7c245c8d32ad'
 
   # Web app name
-  webAppName: ''
+  webAppName: 'Azure Node (name)'
 
   # Environment name
-  environmentName: ''
+  environmentName: 'production'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
